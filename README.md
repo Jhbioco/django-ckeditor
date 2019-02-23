@@ -11,3 +11,4 @@ This project shows how to use ckeditor in django framework.
 
 **2. Install django on virtualenv**
 
+
