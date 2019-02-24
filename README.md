@@ -38,8 +38,20 @@ I marked the changes with red color.
 
 **10. myproject/urls.py**
 
+<img src ="https://github.com/Jhbioco/django-ckeditor/blob/master/myproject/media/uploads/2019/02/23/urls.png" width=50% height=50%/>
+
 **11. myapp/models.py**
 
-**12. myapp/admin.py
+<img src ="https://github.com/Jhbioco/django-ckeditor/blob/master/myproject/media/uploads/2019/02/23/models.png" width=50% height=50%/>
+
+**12. myapp/admin.py**
+
+<img src ="https://github.com/Jhbioco/django-ckeditor/blob/master/myproject/media/uploads/2019/02/23/admin.png" width=50% height=50%/>
 
 **13. Django Admin**
+
+<img src ="https://github.com/Jhbioco/django-ckeditor/blob/master/myproject/media/uploads/2019/02/23/admin_myapp.png" width=50% height=50%/>
+
+**12. myapp/admin.py**
+
+<img src ="https://github.com/Jhbioco/django-ckeditor/blob/master/myproject/media/uploads/2019/02/23/content.png" width=50% height=50%/>
