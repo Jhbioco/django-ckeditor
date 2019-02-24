@@ -19,13 +19,27 @@ This project shows how to use ckeditor in django framework.
 **5. Inside myproject folder, create django app**
   * _**python manage.py startapp** myapp_
   
-**6. Install django-ckeditor**
+**6. Create super user**
+  *. _**python manage.py** createsuperuser_
+  
+**7. Install django-ckeditor**
   *. _**pip install** django-ckeditor_
   
-**7. Configure myproject/settings.py**
+**8. Collect static files**
+  *. _**python manage.py** collectstatic_
+  
+**9. Configure myproject/settings.py**
 
 I marked the changes with red color.
 
 <img src ="https://github.com/Jhbioco/django-ckeditor/blob/master/myproject/media/uploads/2019/02/23/settings.jpeg" width="300" height="300"/>
 
 <img src ="https://github.com/Jhbioco/django-ckeditor/blob/master/myproject/media/uploads/2019/02/23/root.png" width=50% height=50%/>
+
+**10. myproject/urls.py**
+
+**11. myapp/models.py**
+
+**12. myapp/admin.py
+
+**13. Django Admin**
