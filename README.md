@@ -54,3 +54,5 @@ I marked the changes with red color.
 
 <img src ="https://github.com/Jhbioco/django-ckeditor/blob/master/myproject/media/uploads/2019/02/23/content.png" width=70% height=70%/>
 
+For more information visit: https://django-ckeditor.readthedocs.io/en/latest/#django-ckeditor
+
