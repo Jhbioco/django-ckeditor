@@ -7,8 +7,6 @@ This project shows how to use ckeditor in django framework.
 
   * _**source** venv/bin/activate_
 
-![alt text](https://github.com/Jhbioco/django-ckeditor/blob/master/myproject/media/uploads/2019/02/23/john_doe.jpeg)
-
 **2. Install django on virtualenv**
   * _**pip install** django_
   
@@ -28,5 +26,5 @@ This project shows how to use ckeditor in django framework.
 
 I marked the changes with red color.
 
-![alt text](https://github.com/Jhbioco/django-ckeditor/blob/master/myproject/media/uploads/2019/02/23/settings.jpeg)
+![alt text](https://github.com/Jhbioco/django-ckeditor/blob/master/myproject/media/uploads/2019/02/23/settings.jpeg=20x20)
 
