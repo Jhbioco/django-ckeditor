@@ -26,5 +26,6 @@ This project shows how to use ckeditor in django framework.
 
 I marked the changes with red color.
 
-![alt text](https://github.com/Jhbioco/django-ckeditor/blob/master/myproject/media/uploads/2019/02/23/settings.jpeg | width=20)
+<img src ="https://github.com/Jhbioco/django-ckeditor/blob/master/myproject/media/uploads/2019/02/23/settings.jpeg" width="300" height="300"/>
 
+<img src ="https://github.com/Jhbioco/django-ckeditor/blob/master/myproject/media/uploads/2019/02/23/root.png" width=50% height=50%/>
