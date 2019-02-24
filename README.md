@@ -34,7 +34,7 @@ I marked the changes with red color.
 
 <img src ="https://github.com/Jhbioco/django-ckeditor/blob/master/myproject/media/uploads/2019/02/23/settings.jpeg" width="300" height="300"/>
 
-<img src ="https://github.com/Jhbioco/django-ckeditor/blob/master/myproject/media/uploads/2019/02/23/root.png" width=50% height=50%/>
+<img src ="https://github.com/Jhbioco/django-ckeditor/blob/master/myproject/media/uploads/2019/02/23/root.png" width=35% height=35%/>
 
 **10. myproject/urls.py**
 
