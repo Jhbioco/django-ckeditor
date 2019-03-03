@@ -29,7 +29,10 @@ This project shows how to use ckeditor in django framework.
   python manage.py startapp myapp
   ```
   
-**6. Create super user**
+**6. Migrate and Create super user**
+  ````
+   python manage.py migrate
+ ````
   ````
    python manage.py createsuperuser
  ````
